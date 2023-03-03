@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - Moya
+  - SVProgressHUD
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - SVProgressHUD
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: 5d707e40fd58f159fc11c444298b6b117a0eba7a
+
+COCOAPODS: 1.11.3
